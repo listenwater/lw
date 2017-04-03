@@ -1,0 +1,16 @@
+{
+  "name": "lw",
+  "version": "1.0.0",
+  "description": "my 1st node demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/listenwater/lw.git"
+  },
+  "author": "listenwater",
+  "license": "MIT",
+  "bugs": "https://github.com/listenwater/issues"
+}
